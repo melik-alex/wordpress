@@ -1,3 +1,9 @@
 [2025-05-20 13:09:12] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\wordpress
 [2025-05-20 13:09:13] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\wordpress
 [2025-05-20 13:10:00] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\wordpress
+[2025-05-20 13:17:17] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\wordpress\wp-admin
+[2025-05-20 13:17:17] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\wordpress\wp-content
+[2025-05-20 13:17:17] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\wordpress\wp-includes
+[2025-05-20 13:17:18] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\wordpress\wp-admin
+[2025-05-20 13:17:18] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\wordpress\wp-content
+[2025-05-20 13:17:18] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\wordpress\wp-includes
